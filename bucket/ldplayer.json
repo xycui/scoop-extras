@@ -1,10 +1,10 @@
 {
-    "version": "3.76.3",
+    "version": "3.77.2",
     "license": "Unknown",
     "homepage": "https://www.ldplayer.net/",
     "description": "An Android emulator optimized for mobile gaming with lower resource consumption",
-    "url": "https://encdn.ldmnq.com/download/package/LDPlayer_3.76.3.exe#/dl.7z",
-    "hash": "dc36ac015327649ae06274decb70cb90563b84ca25aa2add703a508a374380aa",
+    "url": "https://encdn.ldmnq.com/download/package/LDPlayer_3.77.2.exe#/dl.7z",
+    "hash": "893ca1d567528e40b84edd03f88ad3cb315bfd0b6d2bb7fe8e16b352f93790e6",
     "shortcuts": [
         [
             "dnplayer.exe",
